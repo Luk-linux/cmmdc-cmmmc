@@ -17,7 +17,7 @@ int num1, num2;
 std::cout << "Introdu primul numar: ";
 std::cin >> num1;
 
-std::cout << "Intordu al doilea numar: ";
+std::cout << "Introdu al doilea numar: ";
 std::cin >> num2;
 
 std::cout << "CMMDC: " << cmmdc(num1, num2) << std::endl;
